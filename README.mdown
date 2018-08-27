@@ -1,6 +1,9 @@
 # Installation
 
-You can install this bundle in MailMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
+Clone this repository and place it in the appropriate directory for Mailmate:
+
+	cd ~/Library/Application\ Support/MailMate/Bundles
+	git clone https://github.com/wolfcw/vimr.mmbundle
 
 # License
 
