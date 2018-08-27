@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>jbys@ivze-zzohaqyr.pbqr-jvmneqf.pbz</string>
+	<key>contactName</key>
+	<string>Wolfgang Hommel</string>
+	<key>description</key>
+	<string>Integration with text editor VimR.</string>
+	<key>name</key>
+	<string>VimR</string>
+	<key>uuid</key>
+	<string>E6E145D1-F7BB-44BD-8544-8BE2F7769D65</string>
+</dict>
+</plist>
